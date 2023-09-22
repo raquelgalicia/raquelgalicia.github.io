@@ -221,11 +221,11 @@ h1 {
 }
 
 .testimonios .carousel {
-  max-width: 800px;
+  max-width: 500px;
 }
 
 .carousel-item {
-  height: 500px;
+  height: 300px;
 }
 
 .carousel-item .container {
