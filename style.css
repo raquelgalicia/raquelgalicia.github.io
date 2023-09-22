@@ -221,11 +221,11 @@ h1 {
 }
 
 .testimonios .carousel {
-  max-width: 500px;
+  max-width: 800px;
 }
 
 .carousel-item {
-  height: 300px;
+  height: 500px;
 }
 
 .carousel-item .container {
@@ -244,10 +244,10 @@ h1 {
 }
 
 .testimonio-texto {
-  max-width: 50%;
-  font-size: 10px;
+  max-width: 70%;
+  font-size: 20px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'pavanam', sans-serif;
 }
 
 .testimonio-info {
